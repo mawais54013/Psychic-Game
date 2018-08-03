@@ -3,7 +3,7 @@
 Created a game where the computer chooses a random letter and the user has the figure out which letter. Scores include wins and losses with AI being the main theme for this program. 
 
 # Link to Deployed Site
-[Psychic-Game](file:///Users/muhammadawais/Desktop/Psychic-Game/index.html)
+[Psychic-Game](https://mawais54013.github.io/Psychic-Game/)
 
 # Images 
 
