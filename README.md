@@ -5,6 +5,8 @@ Created a game where the computer chooses a random letter and the user has the f
 # Link to Deployed Site
 [Psychic-Game](https://mawais54013.github.io/Psychic-Game/)
 
+[Portfolio](https://mawais54013.github.io/New-Portfolio/)
+
 # Images 
 
 ![Pic](assets/images/screen.png)
