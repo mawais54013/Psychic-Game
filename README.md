@@ -35,6 +35,7 @@ document.onkeyup = function(event)
         console.log(computerGuess);
 }
 ```
+This code shows how each user guess is checked. If the user guess is a letter in the word picked using indexOf then it is added to the letter. If it is not the right letter then the user is asked to pick another letter and their guesses are subtracted by one. After, then the computer picks another letter. 
 # Learned Materials
 I learned to use Javascript to set up the game rules along with wins/losses. Style and background is CSS with HTML.
 
